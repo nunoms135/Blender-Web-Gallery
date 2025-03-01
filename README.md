@@ -10,8 +10,8 @@ Just make a fun stuff
 
 ## How To Open (Option 2)
 1. Open Visual Studio Code
-2. Open and select the folder
-3. Then run the Live Server
+2. Then select the folder
+3. Run the Live Server
 
 ## Additional Assets / Frameworks
 - Slider: [bxSlider](https://bxslider.com/)
