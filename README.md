@@ -4,7 +4,7 @@ Just make a fun stuff
 ## How To Open (Option 1)
 
 1. Open the folder
-2. Type cmd in the file addres bar
+2. Type cmd in the file address bar
 3. Once the cmd is open and type (cmd .)
 4. Then run the Live Server
 
@@ -14,6 +14,5 @@ Just make a fun stuff
 3. Then run the Live Server
 
 ## Additional Assets / Frameworks
-
 - Slider: [bxSlider](https://bxslider.com/)
 - Icons: [Font Awesome](https://fontawesome.com/)
